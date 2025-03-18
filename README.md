@@ -36,6 +36,10 @@ To start the project, follow these steps:
 * Download the project to your local directory by running the following command:  
    ``git clone https://github.com/chekito07/Number-Guessing-Game.git``
 
+**3. Examples**
+
+![Logo](exemple.png)
+
 ## Versions
 This is the first version of the project. 
 **Version stable :** 1.0
